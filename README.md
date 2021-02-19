@@ -12,6 +12,8 @@ Telegram: komunre
 
 Email: koliziy5@gmail.com
 
+Encrypted email: komunre@protonmail.com
+
 <!--
 **komunre/komunre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
