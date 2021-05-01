@@ -1,9 +1,10 @@
 # Promising repositories
-* https://github.com/komunre/btag
+* https://github.com/komunre/btag (dead?...)
+* https://github.com/komunre/fishare-fd
 
 # Currently in progress
-* https://github.com/komunre/btag
-* SS14 contribution
+* https://github.com/komunre/fishare-fd
+* SS14 contribution (i'm trying)
 
 ## If you need to contact me
 Discord: komunre#2298
