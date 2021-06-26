@@ -1,3 +1,5 @@
+![my-card](me-code.png)
+
 # Promising repositories
 * https://github.com/komunre/btag (dead?...)
 * https://github.com/komunre/fishare-fd
@@ -10,8 +12,6 @@
 Discord: komunre#2298
 
 Telegram: komunre
-
-Email: koliziy5@gmail.com
 
 Encrypted email: komunre@protonmail.com
 
