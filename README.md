@@ -7,9 +7,6 @@
 # Currently in progress
 --- Private projects only ---
 
-# Elimination Engine
-Elimination engine is my current (and biggest ever) active project. It's fully C# 3D ECS game engine with GLTF support and a lot of planned features.
-
 ## If you need to contact me
 Discord: komunre
 
