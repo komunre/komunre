@@ -1,14 +1,12 @@
 # Best repositories
+* https://github.com/komunre/btag - New hierarchical non-SQL database standard and server implementation
 * https://github.com/EliminationSoftware/EliminationEngine - C# ECS game engine
 * https://github.com/komunre/PassiveResearch - Passive Research mod for RimWorld
-* https://github.com/komunre/fishare-fd - Pass-through file sharing prototype
-* https://github.com/komunre/btag - XML-like bytefile data storage
-* https://github.com/komunre/ttsdbko - deck building tool for Tabletop Simulator
   
 # Currently in progress
---- Private projects only ---
+* https://github.com/komunre/btag - New hierarchical non-SQL database standard and server implementation
 
 ## If you need to contact me
-Discord: komunre
+Discord: @komunre
 
-Telegram: komunre
+Telegram: @komunre
