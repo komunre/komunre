@@ -10,3 +10,5 @@
 Discord: @komunre
 
 Telegram: @komunre
+
+Email: komunre@yandex.ru
